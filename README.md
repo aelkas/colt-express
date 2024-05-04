@@ -143,6 +143,3 @@ Ceci est aussi liéé à une compréhension plus que moyenne du fonctionnement d
 ## IV. Emprunt
 Dans notre code il y a certaines fonctions qui ont comme commentaire `//emprunt` c'est plus simple que de dire qu'elles sont le résultat de nombreuses recherches dans des forums obscurs et d'adaptations à notre code. Cette indication est principalement présente dans la partie graphique, étant donné que c'était nouveau pour nous, il nous a donc fallu apprendre très vite sur le tas.<br>
 Le seul "réel" emprunt qu'on a fait sans quasiment rien modifier est la classe `RoundedButton` qui nous permet de dessiner des boutons plus customisable.
-
-## V.Répartition des tâches
-Au début, nous visions un jeu classique, comme ceux des jeux de société. Cependant, en relisant le cahier des charges, nous avons compris que ce n'était pas l'attendu. Nous avons donc scindé le code en deux : un mode initial et un mode spécial avec différents bandits. Rayan a pris en charge les fonctions clés et tout l'affichage graphique, une contribution significative. Samy a récupéré les sprites. Antoine a été crucial pour la classe "passager", effectuant la majorité des tests, et a aussi apporté beaucoup à la classe "bandit". Il a également développé un mode solo pour offrir une option aux utilisateurs seuls. Quant aux tests, Samy s'en est occupé, sauf pour la classe "personne", gérée par Antoine.
